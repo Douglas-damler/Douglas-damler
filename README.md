@@ -4,7 +4,7 @@
 </p>
 
 #### My strong skills in React Js, Express Js, Node Js, Javascripty, and Python
-* How to reach me: You can reach me throuhg my email adress: [douglasdamler@gmail.com], [twitter](https://twitter.com/DouglasKathuri2), [linkedin](https://www.linkedin.com/in/douglas-kathurima-7aa1b6196/), or through my phone: +254796154447.
+* How to reach me: You can reach me throuhg my email adress: [douglasdamler@gmail.com](douglasdamler@gmail.com), [twitter](https://twitter.com/DouglasKathuri2), [linkedin](https://www.linkedin.com/in/douglas-kathurima-7aa1b6196/), or through my phone: +254796154447.
 
 <!--
 **Douglas-damler/Douglas-damler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
