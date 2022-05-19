@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, Am Douglas Kathurima 👋
+<p>
+ Seasoned Forward looking Software Engineer with experience in fast-paced software development. Skilled in working with external and internal clients to provide timely, effective solutions. Track record of achieving exceptional results in developing for complex, interconnected systems and providing reliable, secure solutions for user-facing applications. Areas of expertise include Object Oriented Design, Programming (React JS, PHP, Laravel, Vue JS, HTML5, CSS3, MEAN Stack. PERN stack, Python, MYSQL), Client/Server Application development and the Agile methodology.
+</p>
 
 <!--
 **Douglas-damler/Douglas-damler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
