@@ -3,7 +3,7 @@
 I am a Seasoned Forward-looking Software Engineer with experience in fast-paced software development. I am skilled in working with external and internal clients to provide timely, practical solutions. Track record of achieving exceptional results in developing complex, interconnected systems and providing reliable, secure solutions for user-facing applications. Areas of expertise include Object-Oriented Design, Programming (React JS, PHP, Laravel, Vue JS, HTML5, CSS3, MEAN Stack. PERN stack, Python, MYSQL), Client/Server Application development and the Agile methodology.
 </p>
 
-#### My strong skills in React Js, Express Js, Node Js, Javascripty, and Python
+#### My strong skills in React Js, Express Js, Node Js, Javascript, and Python
 * How to reach me: You can reach me throuhg my email adress: [douglasdamler@gmail.com](douglasdamler@gmail.com), [twitter](https://twitter.com/DouglasKathuri2), [linkedin](https://www.linkedin.com/in/douglas-kathurima-7aa1b6196/), or through my phone: +254796154447.
 
 <!--
