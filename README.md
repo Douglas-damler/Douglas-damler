@@ -32,7 +32,7 @@ I recently got deep into dbt and I'm not going back. There's something satisfyin
 ---
 
 ### Find me
-
+- 0712410065
 - douglasdamler@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/douglas-kathurima-7aa1b6196/)
 - Nairobi, Kenya · Open to remote
