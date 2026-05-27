@@ -1,22 +1,38 @@
-### Hi there, am Douglas Kathurima 👋
-<p>
-I am a Seasoned Forward-looking Software Engineer with experience in fast-paced software development. I am skilled in working with external and internal clients to provide timely, practical solutions. Track record of achieving exceptional results in developing complex, interconnected systems and providing reliable, secure solutions for user-facing applications. Areas of expertise include Object-Oriented Design, Programming (React JS, PHP, Laravel, Vue JS, HTML5, CSS3, MEAN Stack. PERN stack, Python, MYSQL), Client/Server Application development and the Agile methodology.
-</p>
+# Hey, I'm Douglas Kathurima 👋
 
-#### My strong skills in React Js, Express Js, Node Js, Javascript, and Python
-* How to reach me: You can reach me throuhg my email adress: [douglasdamler@gmail.com](douglasdamler@gmail.com), [twitter](https://twitter.com/DouglasKathuri2), [linkedin](https://www.linkedin.com/in/douglas-kathurima-7aa1b6196/), or through my phone: +254796154447.
+I'm a Data Engineer based in Nairobi, Kenya. I spend most of my time building the infrastructure that makes data usable — pipelines, warehouses, and the plumbing nobody sees but everybody depends on.
 
-<!--
-**Douglas-damler/Douglas-damler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For the past 3+ years I've been doing this professionally at Optica, where I built the company's data warehouse from scratch. That meant everything from designing the schema to setting up Postgres, writing Airflow pipelines, managing server permissions, and making sure the right people have access to the right data. I also built internal tools in Django when the business needed them.
 
-Here are some ideas to get you started:
+I recently got deep into dbt and I'm not going back. There's something satisfying about having your transformations tested, documented, and version controlled like real software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work with
+
+**Data Engineering**
+- Apache Airflow · dbt · PostgreSQL · Python
+
+**Infrastructure**
+- Linux · Nginx · Bash
+
+**BI & Reporting**
+- Pentaho
+
+**Web (when needed)**
+- Django · React
+
+---
+
+### What I'm building
+
+- [Olist E-Commerce Pipeline](https://github.com/Douglas-damler/dbt_ecommerce) — end to end pipeline using Airflow, dbt and Postgres. Live docs at [dbt.spenotech.com](https://dbt.spenotech.com)
+- [Airflow DAGs](https://github.com/Douglas-damler/olist-airflow-pipeline) — the ingestion layer that feeds the pipeline above
+
+---
+
+### Find me
+
+- douglasdamler@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/douglas-kathurima-7aa1b6196/)
+- Nairobi, Kenya · Open to remote
